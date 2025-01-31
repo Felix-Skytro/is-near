@@ -83,3 +83,5 @@ function isNear(element, distance = 100) {
 
     return false;
 }
+
+module.exports = isNear;
