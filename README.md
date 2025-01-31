@@ -1,13 +1,15 @@
+
+## Disclaimer  
+I (**Skytro // Felix**) do **not** own this code in any way!  
+
+I only fixed the script to work properly with modern versions of JavaScript.  
+The original repository by [pazguille](https://github.com/pazguille) hasn't been updated in **over 10 years**,  
+so I decided it would be best to fork the repo and apply the necessary fixes there.  
+
+**Huge thanks to pazguille!** Your work made my job much easier—big shoutout to you! ❤️  
+
+
 # is-near
-
-
-### Quick notice:
-
-I (Skytro // Felix) do NOT own this code in any way!
-I Only fixed the code to work properly on the newer versions
-The last commit of https://github.com/pazguille was 10 years ago
-So I figured its best to just fork the repo and then edit it there
-Thanks a lot to pazguille my work got a lot easyer - Big shoutout to him <3
 
 Calculates if the mouse position is near to a given element.
 
