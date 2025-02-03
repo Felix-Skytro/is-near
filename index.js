@@ -16,8 +16,7 @@ let eve = null;
 /**
  * Module dependencies
  */
-const document = window.document,
-      body = document.body,
+const body = document.body,
       docEl = document.documentElement,
       moveEvent = 'mousemove',
       requestAnimFrame = window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || 
